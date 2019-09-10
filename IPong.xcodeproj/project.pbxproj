@@ -7,13 +7,19 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		5E0EDC8422D66DCC0053543B /* 67120805_395169181357560_6738643850216079360_n.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E0EDC7E22D66DCB0053543B /* 67120805_395169181357560_6738643850216079360_n.png */; };
-		5E0EDC8522D66DCC0053543B /* Easy.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E0EDC7F22D66DCB0053543B /* Easy.png */; };
-		5E0EDC8622D66DCC0053543B /* 2player.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E0EDC8022D66DCB0053543B /* 2player.png */; };
-		5E0EDC8722D66DCC0053543B /* Medium.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E0EDC8122D66DCB0053543B /* Medium.png */; };
-		5E0EDC8822D66DCC0053543B /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E0EDC8222D66DCC0053543B /* logo.png */; };
-		5E0EDC8922D66DCC0053543B /* Difficult.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E0EDC8322D66DCC0053543B /* Difficult.png */; };
-		5E0EDC8B22D672080053543B /* epic.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E0EDC8A22D672080053543B /* epic.png */; };
+		354B895623284A00006BB396 /* 2p.png in Resources */ = {isa = PBXBuildFile; fileRef = 354B895523284A00006BB396 /* 2p.png */; };
+		354B895823284A02006BB396 /* harddiff.png in Resources */ = {isa = PBXBuildFile; fileRef = 354B895723284A02006BB396 /* harddiff.png */; };
+		354B895A23284A07006BB396 /* mediumdiff.png in Resources */ = {isa = PBXBuildFile; fileRef = 354B895923284A07006BB396 /* mediumdiff.png */; };
+		354B895C23284A25006BB396 /* eastdiff.png in Resources */ = {isa = PBXBuildFile; fileRef = 354B895B23284A25006BB396 /* eastdiff.png */; };
+		35B329662323ED3D00139CFD /* back.png in Resources */ = {isa = PBXBuildFile; fileRef = 35B329652323ED3D00139CFD /* back.png */; };
+		35B6DEDD23259469009C42F4 /* mainbackground.png in Resources */ = {isa = PBXBuildFile; fileRef = 35B6DEDC23259469009C42F4 /* mainbackground.png */; };
+		35B6DEDF23259485009C42F4 /* 70727722_515925395838206_521264723128221696_n.png in Resources */ = {isa = PBXBuildFile; fileRef = 35B6DEDE23259485009C42F4 /* 70727722_515925395838206_521264723128221696_n.png */; };
+		35B6DEE12325A814009C42F4 /* pingpong.json in Resources */ = {isa = PBXBuildFile; fileRef = 35B6DEE02325A813009C42F4 /* pingpong.json */; };
+		35B6DEE52325C8D2009C42F4 /* 69934549_935012956837382_1664044117732098048_n.png in Resources */ = {isa = PBXBuildFile; fileRef = 35B6DEE42325C8D2009C42F4 /* 69934549_935012956837382_1664044117732098048_n.png */; };
+		35B6DEE72325C8E3009C42F4 /* 69952970_1202423266610976_2928109123872489472_n.png in Resources */ = {isa = PBXBuildFile; fileRef = 35B6DEE62325C8E3009C42F4 /* 69952970_1202423266610976_2928109123872489472_n.png */; };
+		35B6DEE92325C8EB009C42F4 /* 69714269_421277355411781_5700375316459945984_n.png in Resources */ = {isa = PBXBuildFile; fileRef = 35B6DEE82325C8EB009C42F4 /* 69714269_421277355411781_5700375316459945984_n.png */; };
+		35B6DEEC2325C9E7009C42F4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 35B6DEEA2325C9E7009C42F4 /* Main.storyboard */; };
+		35FB93FF2323F60400EC839C /* multiplayer.png in Resources */ = {isa = PBXBuildFile; fileRef = 35FB93FB2323F60400EC839C /* multiplayer.png */; };
 		5E56D41322D5241D00C8DE4B /* Rubber Biscuit Bold .TTF in Resources */ = {isa = PBXBuildFile; fileRef = 5E56D41222D5241C00C8DE4B /* Rubber Biscuit Bold .TTF */; };
 		5E56D41522D52C8500C8DE4B /* MenuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E56D41422D52C8500C8DE4B /* MenuViewController.swift */; };
 		5EAC255622D229EF008A338E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EAC255522D229EF008A338E /* AppDelegate.swift */; };
@@ -21,11 +27,13 @@
 		5EAC255A22D229EF008A338E /* Actions.sks in Resources */ = {isa = PBXBuildFile; fileRef = 5EAC255922D229EF008A338E /* Actions.sks */; };
 		5EAC255C22D229EF008A338E /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EAC255B22D229EF008A338E /* GameScene.swift */; };
 		5EAC255E22D229EF008A338E /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EAC255D22D229EF008A338E /* GameViewController.swift */; };
-		5EAC256122D229EF008A338E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5EAC255F22D229EF008A338E /* Main.storyboard */; };
 		5EAC256322D229F3008A338E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5EAC256222D229F3008A338E /* Assets.xcassets */; };
 		5EAC256622D229F3008A338E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5EAC256422D229F3008A338E /* LaunchScreen.storyboard */; };
 		5EAC257122D229F3008A338E /* IPongTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EAC257022D229F3008A338E /* IPongTests.swift */; };
 		5EAC257C22D229F3008A338E /* IPongUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EAC257B22D229F3008A338E /* IPongUITests.swift */; };
+		6BFFE99BF40DFA5B0EEC2E37 /* Pods_IPongTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 075C0F5F3F14FD99B48E76D5 /* Pods_IPongTests.framework */; };
+		9D2B27E007D3D503A38226E4 /* Pods_IPong.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 222F7C0EFEBE1F9F50F97FFC /* Pods_IPong.framework */; };
+		F7D617A18B8429925743D19E /* Pods_IPongUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E0FD4C3EFC567E7826A29C2 /* Pods_IPongUITests.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,13 +54,24 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		5E0EDC7E22D66DCB0053543B /* 67120805_395169181357560_6738643850216079360_n.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 67120805_395169181357560_6738643850216079360_n.png; sourceTree = "<group>"; };
-		5E0EDC7F22D66DCB0053543B /* Easy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Easy.png; sourceTree = "<group>"; };
-		5E0EDC8022D66DCB0053543B /* 2player.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2player.png; sourceTree = "<group>"; };
-		5E0EDC8122D66DCB0053543B /* Medium.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Medium.png; sourceTree = "<group>"; };
-		5E0EDC8222D66DCC0053543B /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo.png; sourceTree = "<group>"; };
-		5E0EDC8322D66DCC0053543B /* Difficult.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Difficult.png; sourceTree = "<group>"; };
-		5E0EDC8A22D672080053543B /* epic.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = epic.png; sourceTree = "<group>"; };
+		075C0F5F3F14FD99B48E76D5 /* Pods_IPongTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_IPongTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		1B2E5F102232965481837725 /* Pods-IPongUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-IPongUITests.release.xcconfig"; path = "Target Support Files/Pods-IPongUITests/Pods-IPongUITests.release.xcconfig"; sourceTree = "<group>"; };
+		222F7C0EFEBE1F9F50F97FFC /* Pods_IPong.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_IPong.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		354B895523284A00006BB396 /* 2p.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2p.png; sourceTree = "<group>"; };
+		354B895723284A02006BB396 /* harddiff.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = harddiff.png; sourceTree = "<group>"; };
+		354B895923284A07006BB396 /* mediumdiff.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mediumdiff.png; sourceTree = "<group>"; };
+		354B895B23284A25006BB396 /* eastdiff.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = eastdiff.png; sourceTree = "<group>"; };
+		35B329652323ED3D00139CFD /* back.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = back.png; sourceTree = "<group>"; };
+		35B6DEDC23259469009C42F4 /* mainbackground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = mainbackground.png; path = ../../../../Downloads/mainbackground.png; sourceTree = "<group>"; };
+		35B6DEDE23259485009C42F4 /* 70727722_515925395838206_521264723128221696_n.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 70727722_515925395838206_521264723128221696_n.png; sourceTree = "<group>"; };
+		35B6DEE02325A813009C42F4 /* pingpong.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = pingpong.json; sourceTree = "<group>"; };
+		35B6DEE42325C8D2009C42F4 /* 69934549_935012956837382_1664044117732098048_n.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 69934549_935012956837382_1664044117732098048_n.png; sourceTree = "<group>"; };
+		35B6DEE62325C8E3009C42F4 /* 69952970_1202423266610976_2928109123872489472_n.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 69952970_1202423266610976_2928109123872489472_n.png; sourceTree = "<group>"; };
+		35B6DEE82325C8EB009C42F4 /* 69714269_421277355411781_5700375316459945984_n.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 69714269_421277355411781_5700375316459945984_n.png; sourceTree = "<group>"; };
+		35B6DEEB2325C9E7009C42F4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		35FB93FB2323F60400EC839C /* multiplayer.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = multiplayer.png; sourceTree = "<group>"; };
+		3B1290915CF35160CB39EA96 /* Pods-IPongTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-IPongTests.release.xcconfig"; path = "Target Support Files/Pods-IPongTests/Pods-IPongTests.release.xcconfig"; sourceTree = "<group>"; };
+		3E0FD4C3EFC567E7826A29C2 /* Pods_IPongUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_IPongUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		5E56D41222D5241C00C8DE4B /* Rubber Biscuit Bold .TTF */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Rubber Biscuit Bold .TTF"; sourceTree = "<group>"; };
 		5E56D41422D52C8500C8DE4B /* MenuViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuViewController.swift; sourceTree = "<group>"; };
 		5EAC255222D229EF008A338E /* IPong.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = IPong.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -61,7 +80,6 @@
 		5EAC255922D229EF008A338E /* Actions.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Actions.sks; sourceTree = "<group>"; };
 		5EAC255B22D229EF008A338E /* GameScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = "<group>"; };
 		5EAC255D22D229EF008A338E /* GameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
-		5EAC256022D229EF008A338E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		5EAC256222D229F3008A338E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5EAC256522D229F3008A338E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5EAC256722D229F3008A338E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -71,6 +89,10 @@
 		5EAC257722D229F3008A338E /* IPongUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = IPongUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5EAC257B22D229F3008A338E /* IPongUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IPongUITests.swift; sourceTree = "<group>"; };
 		5EAC257D22D229F3008A338E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C9EE4A5AEFFC0B3F8770EF2E /* Pods-IPongTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-IPongTests.debug.xcconfig"; path = "Target Support Files/Pods-IPongTests/Pods-IPongTests.debug.xcconfig"; sourceTree = "<group>"; };
+		CC97E14E1C1585D250F51168 /* Pods-IPong.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-IPong.debug.xcconfig"; path = "Target Support Files/Pods-IPong/Pods-IPong.debug.xcconfig"; sourceTree = "<group>"; };
+		EF612491215D386778A66944 /* Pods-IPong.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-IPong.release.xcconfig"; path = "Target Support Files/Pods-IPong/Pods-IPong.release.xcconfig"; sourceTree = "<group>"; };
+		FB3B6357FA2214FE807394C9 /* Pods-IPongUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-IPongUITests.debug.xcconfig"; path = "Target Support Files/Pods-IPongUITests/Pods-IPongUITests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +100,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9D2B27E007D3D503A38226E4 /* Pods_IPong.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -85,6 +108,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6BFFE99BF40DFA5B0EEC2E37 /* Pods_IPongTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -92,22 +116,37 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F7D617A18B8429925743D19E /* Pods_IPongUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		2EB8DA0560DF5692B35B91D7 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				222F7C0EFEBE1F9F50F97FFC /* Pods_IPong.framework */,
+				075C0F5F3F14FD99B48E76D5 /* Pods_IPongTests.framework */,
+				3E0FD4C3EFC567E7826A29C2 /* Pods_IPongUITests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		5E0EDC7D22D66D9F0053543B /* Images */ = {
 			isa = PBXGroup;
 			children = (
-				5E0EDC8322D66DCC0053543B /* Difficult.png */,
-				5E0EDC7F22D66DCB0053543B /* Easy.png */,
-				5E0EDC8222D66DCC0053543B /* logo.png */,
-				5E0EDC8A22D672080053543B /* epic.png */,
-				5E0EDC8022D66DCB0053543B /* 2player.png */,
-				5E0EDC8122D66DCB0053543B /* Medium.png */,
-				5E0EDC7E22D66DCB0053543B /* 67120805_395169181357560_6738643850216079360_n.png */,
+				35B6DEDC23259469009C42F4 /* mainbackground.png */,
+				354B895523284A00006BB396 /* 2p.png */,
+				354B895723284A02006BB396 /* harddiff.png */,
+				354B895923284A07006BB396 /* mediumdiff.png */,
+				354B895B23284A25006BB396 /* eastdiff.png */,
+				35B6DEDE23259485009C42F4 /* 70727722_515925395838206_521264723128221696_n.png */,
+				35B6DEE82325C8EB009C42F4 /* 69714269_421277355411781_5700375316459945984_n.png */,
+				35B6DEE62325C8E3009C42F4 /* 69952970_1202423266610976_2928109123872489472_n.png */,
+				35FB93FB2323F60400EC839C /* multiplayer.png */,
+				35B6DEE42325C8D2009C42F4 /* 69934549_935012956837382_1664044117732098048_n.png */,
+				35B329652323ED3D00139CFD /* back.png */,
 			);
 			path = Images;
 			sourceTree = "<group>";
@@ -119,6 +158,8 @@
 				5EAC256F22D229F3008A338E /* IPongTests */,
 				5EAC257A22D229F3008A338E /* IPongUITests */,
 				5EAC255322D229EF008A338E /* Products */,
+				E3C6EB53578E0A2AF14A10F9 /* Pods */,
+				2EB8DA0560DF5692B35B91D7 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -141,11 +182,12 @@
 				5EAC255922D229EF008A338E /* Actions.sks */,
 				5EAC255B22D229EF008A338E /* GameScene.swift */,
 				5EAC255D22D229EF008A338E /* GameViewController.swift */,
-				5EAC255F22D229EF008A338E /* Main.storyboard */,
 				5E56D41422D52C8500C8DE4B /* MenuViewController.swift */,
+				35B6DEEA2325C9E7009C42F4 /* Main.storyboard */,
 				5EAC256222D229F3008A338E /* Assets.xcassets */,
 				5EAC256422D229F3008A338E /* LaunchScreen.storyboard */,
 				5E56D41222D5241C00C8DE4B /* Rubber Biscuit Bold .TTF */,
+				35B6DEE02325A813009C42F4 /* pingpong.json */,
 				5EAC256722D229F3008A338E /* Info.plist */,
 			);
 			path = IPong;
@@ -169,6 +211,19 @@
 			path = IPongUITests;
 			sourceTree = "<group>";
 		};
+		E3C6EB53578E0A2AF14A10F9 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				CC97E14E1C1585D250F51168 /* Pods-IPong.debug.xcconfig */,
+				EF612491215D386778A66944 /* Pods-IPong.release.xcconfig */,
+				C9EE4A5AEFFC0B3F8770EF2E /* Pods-IPongTests.debug.xcconfig */,
+				3B1290915CF35160CB39EA96 /* Pods-IPongTests.release.xcconfig */,
+				FB3B6357FA2214FE807394C9 /* Pods-IPongUITests.debug.xcconfig */,
+				1B2E5F102232965481837725 /* Pods-IPongUITests.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -176,6 +231,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 5EAC258022D229F3008A338E /* Build configuration list for PBXNativeTarget "IPong" */;
 			buildPhases = (
+				DF1AC6E99273D22ACB85D3C0 /* [CP] Check Pods Manifest.lock */,
 				5EAC254E22D229EF008A338E /* Sources */,
 				5EAC254F22D229EF008A338E /* Frameworks */,
 				5EAC255022D229EF008A338E /* Resources */,
@@ -193,6 +249,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 5EAC258322D229F3008A338E /* Build configuration list for PBXNativeTarget "IPongTests" */;
 			buildPhases = (
+				A60F9A9344070054C5C03AE3 /* [CP] Check Pods Manifest.lock */,
 				5EAC256822D229F3008A338E /* Sources */,
 				5EAC256922D229F3008A338E /* Frameworks */,
 				5EAC256A22D229F3008A338E /* Resources */,
@@ -211,6 +268,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 5EAC258622D229F3008A338E /* Build configuration list for PBXNativeTarget "IPongUITests" */;
 			buildPhases = (
+				465D4D9A7FE7EDA4AC60D6FC /* [CP] Check Pods Manifest.lock */,
 				5EAC257322D229F3008A338E /* Sources */,
 				5EAC257422D229F3008A338E /* Frameworks */,
 				5EAC257522D229F3008A338E /* Resources */,
@@ -273,18 +331,23 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5EAC256122D229EF008A338E /* Main.storyboard in Resources */,
+				35B6DEE92325C8EB009C42F4 /* 69714269_421277355411781_5700375316459945984_n.png in Resources */,
+				35B6DEE52325C8D2009C42F4 /* 69934549_935012956837382_1664044117732098048_n.png in Resources */,
+				35B6DEE12325A814009C42F4 /* pingpong.json in Resources */,
 				5E56D41322D5241D00C8DE4B /* Rubber Biscuit Bold .TTF in Resources */,
-				5E0EDC8722D66DCC0053543B /* Medium.png in Resources */,
-				5E0EDC8B22D672080053543B /* epic.png in Resources */,
-				5E0EDC8922D66DCC0053543B /* Difficult.png in Resources */,
-				5E0EDC8422D66DCC0053543B /* 67120805_395169181357560_6738643850216079360_n.png in Resources */,
-				5E0EDC8522D66DCC0053543B /* Easy.png in Resources */,
-				5E0EDC8822D66DCC0053543B /* logo.png in Resources */,
+				35B329662323ED3D00139CFD /* back.png in Resources */,
+				354B895623284A00006BB396 /* 2p.png in Resources */,
+				35B6DEDF23259485009C42F4 /* 70727722_515925395838206_521264723128221696_n.png in Resources */,
+				354B895C23284A25006BB396 /* eastdiff.png in Resources */,
+				35B6DEDD23259469009C42F4 /* mainbackground.png in Resources */,
+				35B6DEEC2325C9E7009C42F4 /* Main.storyboard in Resources */,
 				5EAC255822D229EF008A338E /* GameScene.sks in Resources */,
+				35FB93FF2323F60400EC839C /* multiplayer.png in Resources */,
+				354B895823284A02006BB396 /* harddiff.png in Resources */,
 				5EAC256322D229F3008A338E /* Assets.xcassets in Resources */,
+				35B6DEE72325C8E3009C42F4 /* 69952970_1202423266610976_2928109123872489472_n.png in Resources */,
+				354B895A23284A07006BB396 /* mediumdiff.png in Resources */,
 				5EAC256622D229F3008A338E /* LaunchScreen.storyboard in Resources */,
-				5E0EDC8622D66DCC0053543B /* 2player.png in Resources */,
 				5EAC255A22D229EF008A338E /* Actions.sks in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -304,6 +367,75 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		465D4D9A7FE7EDA4AC60D6FC /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-IPongUITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		A60F9A9344070054C5C03AE3 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-IPongTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		DF1AC6E99273D22ACB85D3C0 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-IPong-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		5EAC254E22D229EF008A338E /* Sources */ = {
@@ -349,10 +481,10 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		5EAC255F22D229EF008A338E /* Main.storyboard */ = {
+		35B6DEEA2325C9E7009C42F4 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				5EAC256022D229EF008A338E /* Base */,
+				35B6DEEB2325C9E7009C42F4 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -486,6 +618,7 @@
 		};
 		5EAC258122D229F3008A338E /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = CC97E14E1C1585D250F51168 /* Pods-IPong.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -504,6 +637,7 @@
 		};
 		5EAC258222D229F3008A338E /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = EF612491215D386778A66944 /* Pods-IPong.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -522,6 +656,7 @@
 		};
 		5EAC258422D229F3008A338E /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = C9EE4A5AEFFC0B3F8770EF2E /* Pods-IPongTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -543,6 +678,7 @@
 		};
 		5EAC258522D229F3008A338E /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 3B1290915CF35160CB39EA96 /* Pods-IPongTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -564,6 +700,7 @@
 		};
 		5EAC258722D229F3008A338E /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = FB3B6357FA2214FE807394C9 /* Pods-IPongUITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
@@ -584,6 +721,7 @@
 		};
 		5EAC258822D229F3008A338E /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1B2E5F102232965481837725 /* Pods-IPongUITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;

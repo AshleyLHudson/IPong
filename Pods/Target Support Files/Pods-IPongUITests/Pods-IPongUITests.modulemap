@@ -1,0 +1,6 @@
+framework module Pods_IPongUITests {
+  umbrella header "Pods-IPongUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

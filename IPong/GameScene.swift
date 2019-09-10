@@ -106,11 +106,11 @@ class GameScene: SKScene {
             break
         case .medium:
             // Make enemy move with the ball but with delay
-            enemy.run(SKAction.moveTo(x: ball.position.x, duration: 0.7))
+            enemy.run(SKAction.moveTo(x: ball.position.x, duration: 0.6))
             break
         case .difficult:
             // Make enemy move with the ball but with delay
-            enemy.run(SKAction.moveTo(x: ball.position.x, duration: 0.4))
+            enemy.run(SKAction.moveTo(x: ball.position.x, duration: 0.3))
             break
         case .player2:
             

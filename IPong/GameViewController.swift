@@ -14,6 +14,7 @@ import GameplayKit
 //Public varibles as refrenced in gamescene.swift and gameviewcontroller.swift
 var currentGameType = gameType.medium
 
+
 class GameViewController: UIViewController {
 
     override func viewDidLoad() {
